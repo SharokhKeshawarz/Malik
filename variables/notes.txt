@@ -26,3 +26,13 @@ Nom:
     maVariable2;
     ma_variable2;
     ma_variable_2;
+
+Afficher:
+    printf("Salut");
+    printf("%d", entier);
+    printf("%ld", long);
+    printf("%f", decimal);
+    printf("%lf", double);
+    printf("%c", character);
+    printf("%s", string);
+    
