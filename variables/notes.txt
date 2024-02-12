@@ -1,0 +1,28 @@
+-- Une variable est une contenaire qui stock des donnée --
+
+Declarations:
+    1. type nom = valeur;
+    ex: int valeur = 41;
+    
+    2. type nom;
+    nom = valeur;
+    ex: int valeur;
+        valeur = 41;
+
+Types:
+    int (entier) ex: 24881
+    long (enier avec une plus grande valeur) ex: 28848488184
+    float (decimal) ex: 2.414152
+    double (decmial avec plus de preceision) ex: 429.14928592
+    char (character) ex: 'e'
+    char * (chaine de character) ex: "Salut je m'appelle X"
+
+Nom:
+    Doit contenir uniquement des chiffre, des lettre et des '_'
+
+    maVariable;
+    ma_variable;
+
+    maVariable2;
+    ma_variable2;
+    ma_variable_2;
